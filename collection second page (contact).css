@@ -1,0 +1,90 @@
+@charset "utf-8";
+/* CSS Document */
+*{
+	padding: 0;
+	margin: 0;
+	list-style: none;
+	text-decoration: none;
+}
+.nav{
+	width: 100%;
+	height:60px;
+	margin-top: 30px;
+	padding: 0 80px;
+	box-sizing: border-box;
+	position: fixed;
+	top: 10px;
+	z-index: 1;
+} 
+.nav{
+	width: 100%;
+	height:60px;
+	margin-top: 30px;
+	padding: 0 80px;
+	box-sizing: border-box;
+	position: fixed;
+	top: 10px;
+	z-index: 1;
+} 
+.logo img{
+	width: 238px;
+	height: 58px;
+	float: left;
+}
+.nav ul{
+	width: 800px;
+	height: 41px;
+	float: right;
+}
+.nav ul li{
+	width: 100px;
+	height: 58px;
+	float: right;
+	padding-top: 15px;
+	margin-left: 80px;
+	line-height: 21px;
+	font-family:'有爱新黑 CN';
+	text-align: center;
+	font-size: 21px;
+	color: #020B42;
+}
+.nav ul li span{
+	 font-family: '有爱新黑 CN';
+	 font-size: 14px;
+	 color:#020B42; 
+}
+.contact{
+	margin-left: 80px;
+	font-size: 60px;
+	font-family: "有爱新黑 CN";
+	color: #020B42;
+    margin-top: 200px;
+}
+.youxiang{
+	width: 100%;
+	height: auto;
+	text-align: center;
+	font-size: 36px;
+	font-family: "有爱新黑 CN";
+	color: #020B24;
+	margin-top: 60px;
+}
+.youxiang img{
+	width: 108px;
+	height: 67px;
+	vertical-align: middle;
+}
+.copyright{
+	width: 100%;
+	height: 80px;
+	font-family: "有爱新黑 CN";
+	text-align:center;
+	color:#020B42;
+	font-weight: bold;
+	font-size: 36px;
+	margin-top: 240px;
+}
+.copyright img{
+	width: 113px;
+	height: 28px;
+}

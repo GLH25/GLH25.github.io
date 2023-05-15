@@ -1,0 +1,174 @@
+@charset "utf-8";
+/* CSS Document */
+*{
+	padding: 0;
+	margin: 0;
+	list-style: none;
+	text-decoration: none;
+}
+.nav{
+	width: 100%;
+	height:60px;
+	margin-top: 30px;
+	padding: 0 80px;
+	box-sizing: border-box;
+	position: fixed;
+	top: 10px;
+	z-index: 1;
+} 
+.nav{
+	width: 100%;
+	height:60px;
+	margin-top: 30px;
+	padding: 0 80px;
+	box-sizing: border-box;
+	position: fixed;
+	top: 10px;
+	z-index: 1;
+} 
+.logo img{
+	width: 238px;
+	height: 58px;
+	float: left;
+}
+.nav ul{
+	width: 800px;
+	height: 41px;
+	float: right;
+}
+.nav ul li{
+	width: 100px;
+	height: 58px;
+	float: right;
+	padding-top: 15px;
+	margin-left: 80px;
+	line-height: 21px;
+	font-family:'有爱新黑 CN';
+	text-align: center;
+	font-size: 21px;
+	color: #020B42;
+}
+.nav ul li span{
+	 font-family: '有爱新黑 CN';
+	 font-size: 14px;
+	 color:#020B42; 
+}
+.works{
+	margin-left: 80px;
+	font-size: 36px;
+	font-family: "有爱新黑 CN";
+	color: #020B42;
+    margin-top: 250px;
+}
+.title{
+	width: 100%;
+	height: 72px;
+}
+.title img{
+	width: 90px;
+	height: auto;
+	margin-left: 80px;
+	margin-right: 40px;
+	vertical-align: middle;
+}
+.title{
+	font-family: "有爱新黑 CN";
+	color: #020B42;
+	font-size: 72px;
+}
+.jieshao{
+	width: 100%;
+	height: auto;
+	margin-top: 25px;
+}
+.shuoming{
+	float: left;
+	margin-left: 215px;
+	margin-top: 30px;
+}
+.leixing{
+	width: 200px;
+	height: 20px;
+	font-family: "有爱新黑 CN";
+	font-size: 21px;
+	line-height: 20px;
+	margin-right: 80px;
+	color: #020B42;
+}
+.fangge{
+	width: 18px;
+	height: 18px;
+	background-color: #020B42;
+	float: left;
+	margin-right: 10px;
+	vertical-align: middle;
+}
+.detail{
+	width: auto;
+	height: auto;
+	color: #020B42;
+	font-family: "有爱新黑 CN";
+	font-size: 18px;
+	margin-top: 10px;
+	line-height: 30px;
+	text-align: left;
+}
+.photo{
+	text-align: center;
+}
+.photo img{
+	width: 80%;
+	height: auto;
+	margin-top: 28px;
+}
+.photo span img{
+	margin-top: 50px;
+}
+.navbottom{
+	width: 100%;
+	height:60px;
+	margin-top: 100px;
+	padding: 0 80px;
+	box-sizing: border-box;
+} 
+.logobottom img{
+	width: 238px;
+	height: 58px;
+	float: left;
+}
+.navbottom ul{
+	width: 800px;
+	height: 41px;
+	float: right;
+}
+.navbottom ul li{
+	width: 100px;
+	height: 58px;
+	float: right;
+	padding-top: 15px;
+	margin-left: 80px;
+	line-height: 21px;
+	font-family:'有爱新黑 CN';
+	text-align: center;
+	font-size: 21px;
+	color: #020B42;
+}
+.navbottom ul li span{
+	 font-family: '有爱新黑 CN';
+	 font-size: 14px;
+	 color:#020B42; 
+}
+.copyright{
+	width: 100%;
+	height: 80px;
+	font-family: "有爱新黑 CN";
+	text-align:center;
+	color:#020B42;
+	font-weight: bold;
+	font-size: 36px;
+	margin-top: 60px;
+}
+.copyright img{
+	width: 113px;
+	height: 28px;
+}
