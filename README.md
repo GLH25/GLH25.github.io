@@ -1,2 +1,2 @@
-# LGH25.github.io
+# GLH25.github.io
 LGH collection website
